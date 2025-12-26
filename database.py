@@ -1,7 +1,17 @@
 table = [
-    # [
-    # {"ID":""},{"Author":""},{"Genre":""},{"Title":""},{"Purchase Price JOD":""},{"Purchase Date":""},
-    # ],table structure
+   #table structure
+    [
+        {"ID": "101"}, {"Author": "J.K. Rowling"}, {"Genre": "Fantasy"}, {"Title": "Harry Potter"}, {"Purchase Price JOD": "15"}, {"Purchase Date": "12/01/2024"}
+    ],
+    [
+        {"ID": "102"}, {"Author": "George Orwell"}, {"Genre": "Dystopian"}, {"Title": "1984"}, {"Purchase Price JOD": "8"}, {"Purchase Date": "05/15/2023"}
+    ],
+    [
+        {"ID": "103"}, {"Author": "Agatha Christie"}, {"Genre": "Mystery"}, {"Title": "Murder on the Orient Express"}, {"Purchase Price JOD": "12"}, {"Purchase Date": "09/22/2025"}
+    ],
+    [
+        {"ID": "104"}, {"Author": "Isaac Asimov"}, {"Genre": "Sci-Fi"}, {"Title": "I, Robot"}, {"Purchase Price JOD": "10"}, {"Purchase Date": "01/30/2026"}
+    ]
 ]
 
 
