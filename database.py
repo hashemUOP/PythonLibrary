@@ -19,7 +19,7 @@ def insert(id, author, genre, title, purchase_price, purchase_date):
 
 
 # example of inserting data to table
-insert('0', 'charles', 'horror', 'five trees', '10', '12/26/2026')
+# insert('0', 'charles', 'horror', 'five trees', '10', '12/26/2026')
 
 
 def search(title):
@@ -32,5 +32,5 @@ def search(title):
 
     if not found:
         print("Book not found.")
-
-search(input("Enter Title: "))
+#example of search usage
+# search(input("Enter Title: "))
