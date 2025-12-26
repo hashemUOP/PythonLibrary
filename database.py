@@ -38,6 +38,7 @@ def search(title):
         for item in row:
             if item.get("Title") == title:
                 found = True
+                print("Book Found")
                 print(row)
 
     if not found:
