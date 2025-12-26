@@ -1,0 +1,22 @@
+ID,Genre,Title,Author,Purchase Price JOD,Purchase Date
+1,Sci-Fi,Dune,Frank Herbert,15,10/01/2018
+2,Sci-Fi,Dune,Frank Herbert,15,10/01/2018
+3,Fantasy,The Hobbit,J.R.R. Tolkien,12,15/05/2015
+4,Fantasy,The Hobbit,J.R.R. Tolkien,12,20/06/2016
+5,Classics,1984,George Orwell,10,01/02/2010
+6,Classics,1984,George Orwell,10,05/03/2011
+7,Sci-Fi,The Martian,Andy Weir,18,12/08/2014
+8,Dystopian,Brave New World,Aldous Huxley,11,14/09/2012
+9,Adventure,Moby Dick,Herman Melville,22,30/11/2009
+10,Romance,Pride and Prejudice,Jane Austen,9,18/07/2013
+11,Horror,Frankenstein,Mary Shelley,8,22/10/2010
+12,Sci-Fi,Foundation,Isaac Asimov,20,11/11/2019
+13,Fantasy,The Name of the Wind,Patrick Rothfuss,25,04/04/2017
+14,Mystery,The Big Sleep,Raymond Chandler,14,09/01/2015
+15,Thriller,The Silent Patient,Alex Michaelides,19,25/02/2020
+16,History,Sapiens,Yuval Noah Harari,30,10/06/2016
+17,Classics,Great Expectations,Charles Dickens,12,15/03/2014
+18,Horror,The Shining,Stephen King,16,31/10/2018
+19,Sci-Fi,Neuromancer,William Gibson,13,20/12/2011
+20,Fantasy,American Gods,Neil Gaiman,21,14/02/2019
+
