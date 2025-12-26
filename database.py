@@ -15,7 +15,13 @@ table = [
 ]
 
 
-def insert(id, author, genre, title, purchase_price, purchase_date):
+def insert():
+    id = input("Enter ID: ")
+    author = input("Enter Author: ")
+    genre = input("Enter Genre: ")
+    title = input("Enter Title: ")
+    purchase_price =input("Enter Purchase Price: ")
+    purchase_date = input("Enter Purchase Date: ")
     table.append(
         [
             {"ID": id},

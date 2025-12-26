@@ -8,4 +8,4 @@ def member_id_check(member_id):
         print("Welcome back " + member_id)
     else:
         print("Member ID is invalid.")
-        exit("Goodbye.") # This stops the program immediately
+        exit("Goodbye.")
